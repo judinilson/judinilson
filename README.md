@@ -20,9 +20,10 @@
 
 - 📫 How to reach me **judinilson0000@gmail.com**
 
-<a href="www.linkedin.com/in/judinilson-monchacha">
+- Linkedin <a href="www.linkedin.com/in/judinilson-monchacha">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
