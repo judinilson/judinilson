@@ -3,9 +3,13 @@
 
 <h4 align="left">Profile</h4>
 - :gem: Blockchain 
+
 - :shipit: Node.js
+
 - :iphone: React-Native
+
 - :zap: Python Back-end
+
 
 
 <h4 align="left">Status</h4>
