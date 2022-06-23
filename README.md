@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Judinilson Welcome to my Github</h1>
 <h3 align="center">A strive Developer who's always working on improving skills ⛳️</h3>
 
+
 <h4 align="left">Profile</h4>
+
 - 💎 Blockchain 
-
+  
 - 🦚 Node.js
-
+  
 - 📱 React-Native
 
 - 🐍 Python Back-end
