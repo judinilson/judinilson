@@ -122,5 +122,11 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
     </a>
+        <a href="https://developer.apple.com/swift/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="android" width="40" height="40" />
+    </a>
+    <a href="https://www.python.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="android" width="40" height="40" />
+    </a>
 </p>
 
