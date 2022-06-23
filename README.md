@@ -2,6 +2,13 @@
 <h3 align="center">A strive Developer</h3>
 
 <h4 align="left">Profile</h4>
+- :gem: Blockchain 
+- :shipit: Node.js
+- :iphone: React-Native
+- :zap: Python Back-end
+
+
+<h4 align="left">Status</h4>
 
 - 🔭 I am currently working as a **Freelancer**
 
