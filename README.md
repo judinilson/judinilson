@@ -2,13 +2,13 @@
 <h3 align="center">A strive Developer who's always working on improving skills ⛳️</h3>
 
 <h4 align="left">Profile</h4>
-- :gem: Blockchain 
+- 💎 Blockchain 
 
-- :shipit: Node.js
+- 🦚 Node.js
 
-- :iphone: React-Native
+- 📱 React-Native
 
-- :zap: Python Back-end
+- 🐍 Python Back-end
 
 
 
