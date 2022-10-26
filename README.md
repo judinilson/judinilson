@@ -18,11 +18,7 @@
 
 - 🔭 I am currently working as a **Freelancer**
 
-- 📫 How to reach me **judinilson0000@gmail.com**
 
-- Linkedin <a href="www.linkedin.com/in/judinilson-monchacha">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
