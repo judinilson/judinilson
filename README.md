@@ -16,7 +16,7 @@
 
 <h4 align="left">Status</h4>
 
-- 🔭 I am currently working as a **Freelancer**
+- 🔭 Always open for a new project
 
 
 
