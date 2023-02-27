@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, there Welcome to Mr.Black Profile</h1>
-<h3 align="center">A strive Developer who's always working on improving skills ⛳️</h3>
+<h3 align="center">A JavaScript Developer who's always working on improving skills ⛳️</h3>
 
 
 <h4 align="left">Profile</h4>
 
-- 💎 Blockchain 
+- 💎 JavaScript 
   
 - 🦚 Node.js
   
 - 📱 React-Native
 
-- 🐍 Python Back-end
+- 🐍 Python 
 
 
 
