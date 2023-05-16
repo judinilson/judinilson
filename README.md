@@ -12,7 +12,10 @@
 
 - 🐍 Python
 
-- 💎 DevOps 
+- 🦚 DevOps 
+
+- 💎 data analyst 
+
 
 
 
