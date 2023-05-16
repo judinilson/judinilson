@@ -10,7 +10,9 @@
   
 - 📱 React-Native
 
-- 🐍 Python 
+- 🐍 Python
+
+- 💎 DevOps 
 
 
 
