@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, there Welcome to Mr.Black Profile</h1>
-<h3 align="center">A JavaScript Developer who's always working on improving skills ⛳️</h3>
+<h1 align="center">Hi 👋, there Welcome to my Profile</h1>
+<h3 align="center">A Software Developer who's always working on improving skills ⛳️</h3>
 
 
 <h4 align="left">Profile</h4>
