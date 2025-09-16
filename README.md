@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, there Welcome to my Profile</h1>
-<h3 align="center">A Software Developer who's always working on improving skills ⛳️</h3>
+<h1 align="center">Hey 👋, there Welcome to my Profile</h1>
+<h3 align="center">A Software Engineer who's always working on exciting projects  ⛳️</h3>
 
 
 <h4 align="left">Profile</h4>
@@ -7,23 +7,14 @@
 - 💎 JavaScript 
   
 - 🦚 Node.js
-  
-- 📱 React-Native
-
+    
 - 🐍 Python
+  
+- 📱 React-Native && Flutter
 
 - 🦚 DevOps 
 
-- 💎 data analyst 
 
-
-
-
-<h4 align="left">Status</h4>
-
-I am currently working as a **Freelancer**
-
-- 🔭 Always open for a new project
 
 - 📫 How to reach me **judinilson0000@gmail.com**
 
